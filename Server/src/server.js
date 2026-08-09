@@ -1,5 +1,5 @@
-// Made by Mika (mikayla.js) - No credits needed, selling/distribution is not permitted
-// https://github.com/pastrified
+// Made by Nori (lyfe-ui) - No credits needed, selling/distribution is not permitted
+// https://github.com/lyfe-ui
 
 const express = require('express');
 const CryptoJS = require('crypto-js');
