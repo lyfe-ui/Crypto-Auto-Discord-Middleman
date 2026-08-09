@@ -1,5 +1,5 @@
-// Made by Mika (mikayla.js) - No credits needed, selling/distribution is not permitted
-// https://github.com/pastrified
+// Made by Nori (lyfe-ui) - No credits needed, selling/distribution is not permitted
+// https://github.com/lyfe-ui
 
 const { Client, Collection, Events, GatewayIntentBits, EmbedBuilder, ButtonBuilder, ActionRowBuilder, ChannelType, ButtonStyle, TextInputBuilder, ModalBuilder, TextInputStyle, PermissionsBitField } = require('discord.js');
 const fs = require('fs');
